@@ -28,5 +28,20 @@
         "analysisCompleted":true,
         "logo":"https://raw.githubusercontent.com/kjeshang/KunalMavenAnalyticsDataPlayground/refs/heads/main/Movie_Ratings/Movie_Ratings_Logo.png",
         "githubLink":"https://github.com/kjeshang/KunalMavenAnalyticsDataPlayground/blob/main/Movie_Ratings/Analysis.ipynb"
+    },
+    {
+        "id":3,
+        "name":"Lego Sets",
+        "description":"LEGO sets released from 1970 to 2022, including details on each set's theme, pieces, recommended age, retail price, and image.",
+        "fileTypes":["CSV"],
+        "tags":["Geospatial","Travel","Weather"],
+        "dataStructure":"Single table",
+        "numRecords":499,
+        "numFields":25,
+        "dateAdded":"2026-03-27",
+        "downloadLink":"https://mavenanalytics.io/data-playground/lego-sets",
+        "analysisCompleted":true,
+        "logo":"https://raw.githubusercontent.com/kjeshang/KunalMavenAnalyticsDataPlayground/refs/heads/main/LEGO_Sets/LEGO_Sets_Logo.png",
+        "githubLink":"https://github.com/kjeshang/KunalMavenAnalyticsDataPlayground/blob/main/LEGO_Sets/Analysis.ipynb"
     }
 ]
