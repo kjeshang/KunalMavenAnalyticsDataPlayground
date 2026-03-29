@@ -26,7 +26,7 @@
         "dateAdded":"2020-09-09",
         "downloadLink":"https://mavenanalytics.io/data-playground/movie-ratings",
         "analysisCompleted":true,
-        "logo":"",
+        "logo":"https://raw.githubusercontent.com/kjeshang/KunalMavenAnalyticsDataPlayground/refs/heads/main/Movie_Ratings/Movie_Ratings_Logo.png",
         "githubLink":"https://github.com/kjeshang/KunalMavenAnalyticsDataPlayground/blob/main/Movie_Ratings/Analysis.ipynb"
     }
 ]
