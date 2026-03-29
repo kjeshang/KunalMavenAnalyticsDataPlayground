@@ -4,6 +4,7 @@
 
 |Name|Key|Data Type|Notes|
 |--|--|--|--|
+|ID|id|number|
 |Name|name|string||
 |Description|description|string||
 |File Types|fileTypes|string[]||
@@ -23,6 +24,7 @@
 ```
 // Jupyter Analysis Data Model
 export interface jupyterAnalysis {
+    id: number;
     name: string;
     description: string;
     fileTypes: string[];
