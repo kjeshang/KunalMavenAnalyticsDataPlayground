@@ -40,7 +40,7 @@
         "numFields":25,
         "dateAdded":"2026-03-27",
         "downloadLink":"https://mavenanalytics.io/data-playground/lego-sets",
-        "analysisCompleted":true,
+        "analysisCompleted":false,
         "logo":"https://raw.githubusercontent.com/kjeshang/KunalMavenAnalyticsDataPlayground/refs/heads/main/LEGO_Sets/LEGO_Sets_Logo.png",
         "githubLink":"https://github.com/kjeshang/KunalMavenAnalyticsDataPlayground/blob/main/LEGO_Sets/Analysis.ipynb"
     }
