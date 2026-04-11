@@ -43,5 +43,20 @@
         "analysisCompleted":true,
         "logo":"https://raw.githubusercontent.com/kjeshang/KunalMavenAnalyticsDataPlayground/refs/heads/main/LEGO_Sets/LEGO_Sets_Logo.png",
         "githubLink":"https://github.com/kjeshang/KunalMavenAnalyticsDataPlayground/blob/main/LEGO_Sets/Analysis.ipynb"
+    },
+    {
+        "id":4,
+        "name":"Streaming Video Subscriptions",
+        "description":"Subscription records for MavenFlix, a fictitious video streaming platform. Dataset includes information for ~2,900 subscribers from September 2022 through September 2023. Each record represents an individual customer's subscription, including the subscription cost, created/canceled date, interval, and payment status.",
+        "fileTypes":["CSV"],
+        "tags":["Geospatial","Travel","Weather"],
+        "dataStructure":"Single table",
+        "numRecords":499,
+        "numFields":25,
+        "dateAdded":"2026-04-11",
+        "downloadLink":"https://mavenanalytics.io/data-playground/streaming-video-subscriptions",
+        "analysisCompleted":false,
+        "logo":"https://raw.githubusercontent.com/kjeshang/KunalMavenAnalyticsDataPlayground/refs/heads/main/Streaming_Video_Subscriptions/Streaming_Video_Subscriptions_Logo.jpg",
+        "githubLink":"https://github.com/kjeshang/KunalMavenAnalyticsDataPlayground/blob/main/Streaming_Video_Subscriptions/Analysis.ipynb"
     }
 ]
