@@ -55,7 +55,7 @@
         "numFields":25,
         "dateAdded":"2026-04-11",
         "downloadLink":"https://mavenanalytics.io/data-playground/streaming-video-subscriptions",
-        "analysisCompleted":false,
+        "analysisCompleted":true,
         "logo":"https://raw.githubusercontent.com/kjeshang/KunalMavenAnalyticsDataPlayground/refs/heads/main/Streaming_Video_Subscriptions/Streaming_Video_Subscriptions_Logo.jpg",
         "githubLink":"https://github.com/kjeshang/KunalMavenAnalyticsDataPlayground/blob/main/Streaming_Video_Subscriptions/Analysis.ipynb"
     }
